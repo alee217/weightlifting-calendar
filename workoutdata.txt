@@ -1,0 +1,43 @@
+Monday<|>Chest, Shoulders, & Triceps Dumbbell Workout
+Dumbbell Bench Press<|>5<|>8-10<|><|>https://www.muscleandstrength.com/exercises/dumbbell-bench-press.html
+Incline Dumbbell Bench Press<|>4<|>8-10<|><|>https://www.muscleandstrength.com/exercises/incline-dumbbell-bench-press.html
+Dumbbell Floor Press<|>3<|>8-12<|><|>https://www.muscleandstrength.com/exercises/dumbbell-floor-press.html
+Standing Dumbbell Press<|>4<|>8-10<|><|>https://www.muscleandstrength.com/exercises/standing-dumbbell-press.html
+Dumbbell Lateral Raise<|>3<|>8-12<|><|>https://www.muscleandstrength.com/exercises/dumbbell-lateral-raise.html
+Dumbbell Tricep Kickback<|>3<|>8-12<|><|>https://www.muscleandstrength.com/exercises/bent-over-dumbbell-kickback.html
+
+Tuesday<|>Legs & Core Dumbbell Workout
+Dumbbell Goblet Squat<|>4<|>8-10<|>25<|>https://www.muscleandstrength.com/exercises/dumbbell-goblet-squat
+Dumbbell Stiff Leg Deadlift<|>4<|>8-10<|>25<|>https://www.muscleandstrength.com/exercises/dumbbell-stiff-leg-deadlift.html
+Dumbbell Rear Lunge<|>4<|>8-10 Each<|>20<|>https://www.muscleandstrength.com/exercises/dumbbell-rear-lunge.html
+Dumbbell Frog Squat<|>3<|>8-12<|>25<|>https://www.muscleandstrength.com/exercises/frog-squat.html
+Standing Dumbbell Calf Raise<|>3<|>8-12 Each<|>20<|>https://www.muscleandstrength.com/exercises/standing-one-leg-calf-raise-with-dumbbell.html
+Weighted Crunch<|>3<|>20<|>20<|>https://www.muscleandstrength.com/exercises/weighted-crunch.html
+Side Planks<|>3<|>20 Secs Each<|>20<|>https://www.muscleandstrength.com/exercises/side-hover.html
+
+Thursday<|>Back & Biceps Dumbbell Workout
+Dumbbell Bent Over Row<|>4<|>8-12<|><|>https://www.muscleandstrength.com/exercises/bent-over-dumbbell-row.html
+Tripod Dumbbell Row<|>4<|>8-12 Each<|><|>https://www.muscleandstrength.com/exercises/tripod-dumbbell-row
+Dumbbell Pullover<|>3<|>8-12<|><|>https://www.muscleandstrength.com/exercises/dumbbell-pullover.html
+Reverse Grip Dumbbell Row<|>4<|>8-12<|><|>https://www.muscleandstrength.com/exercises/reverse-grip-bent-over-dumbbell-row.html
+Dumbbell Bicep Curl<|>3<|>10-15<|><|>https://www.muscleandstrength.com/exercises/standing-dumbbell-curl.html
+Dumbbell Hammer Curl<|>3<|>10-15<|><|>https://www.muscleandstrength.com/exercises/standing-hammer-curl.html
+
+Friday<|>Legs & Core Dumbbell Workout
+Dumbbell Squat	<|>4<|>8-10<|><|>https://www.muscleandstrength.com/exercises/dumbbell-squat.html
+Dumbbell Deadlift<|>4<|>8-10<|><|>https://www.muscleandstrength.com/exercises/dumbbell-deadlift.html
+Dumbbell Split Squat<|>3<|>8-12 Each<|><|>https://www.muscleandstrength.com/exercises/dumbbell-split-squat
+Dumbbell Hip Thrust<|>4<|>10-15<|><|>https://www.muscleandstrength.com/exercises/barbell-hip-thrust
+Dumbbell Calf Raise<|>4<|>20<|><|>https://www.muscleandstrength.com/exercises/seated-dumbbell-calf-raise.html
+Dumbbell Side Bends<|>3<|>15 Each<|><|>https://www.muscleandstrength.com/exercises/dumbbell-side-bends.html
+Plank<|>3<|>20 Secs<|><|>https://www.muscleandstrength.com/exercises/hover.html
+
+Saturday<|>Complete Upper Body Dumbbell Workout
+One Arm Dumbbell Rows<|>4<|>8-10 Each<|><|>https://www.muscleandstrength.com/exercises/one-arm-dumbbell-row.html
+Dumbbell Arnold Press<|>4<|>8-10<|><|>https://www.muscleandstrength.com/exercises/seated-arnold-press.html
+Incline Dumbbell Bench Press<|>4<|>8-12<|><|>https://www.muscleandstrength.com/exercises/incline-dumbbell-bench-press.html
+Chest Supported Dumbbell Row<|>3<|>8-12<|><|>https://www.muscleandstrength.com/exercises/chest-supported-dumbbell-row
+Dumbbell Pinwheel Curl<|>2<|>8-12<|><|>https://www.muscleandstrength.com/exercises/hammer-curl-across-the-body.html
+Overhead Dumbbell Tricep Extension<|>3<|>8-12<|><|>https://www.muscleandstrength.com/exercises/two-arm-standing-dumbbell-extension.html
+Dumbbell Shrug<|>3<|>12-15<|><|>https://www.muscleandstrength.com/exercises/dumbbell-shrugs.html
+
